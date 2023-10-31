@@ -4,7 +4,7 @@
 
 Welcome to the Prime Number Generator, a simple web application designed for generating prime numbers within a specified range. This project showcases a web page layout and a JavaScript-based prime number generator.
 
-[![Prime Number Generator]
+[Prime Number Generator]
 ![Screenshot 2023-10-31 011021](https://github.com/Jones1906/PrimeNumberGen/assets/138890017/e8fcca5c-dfec-44ee-9ff5-f7706ebc7d08)
 
 
